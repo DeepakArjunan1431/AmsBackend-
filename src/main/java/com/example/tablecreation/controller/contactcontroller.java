@@ -25,7 +25,7 @@ import com.example.tablecreation.service.contactService;
 
 
 @RestController
-@RequestMapping("/api-v1")
+@RequestMapping("/api-v1/contacts")
 public class contactcontroller {
 	
 	@Autowired
